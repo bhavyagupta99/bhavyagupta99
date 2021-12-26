@@ -27,7 +27,7 @@
 
 -   🔭 I’m currently learning Backend Development and Data Science:grin:
 -   👯 I’m looking to collaborate with other Developers :wink:
--   🥅 2021 Goals: Contribute to Open Source projects and Try out Competitive Coding
+-   🥅 2022 Goals: Contribute to Open Source projects and Try out Competitive Coding
 -   💬 Feel Free To reach me  about anything, I am happy to help :smile:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
